@@ -2,9 +2,9 @@
 
 ## Welcome to Module 2!
 
-## Today's Problem:
-- We are stuck in the command line!
-- (We want to build web applications!)
+## Up until now:
+- We have been stuck in the command line!
+- We want to build web applications!
 
 ## We have started to solve our problem:
 - Learning about the Request-Response Cycle
@@ -17,9 +17,13 @@
   - what is a port?
   - how does this tie into RR Cycle?
 
+## Anatomy of URLs
+
 ## Introducing ... REST:
 - What is it?
 - how does this tie into RR Cycle?
+  - HTTP is "stateless"
+    - ...
 - How does CRUD fit into REST?
 
 ## Introducing ... Sinatra:
