@@ -8,10 +8,19 @@
 
 ## We have started to solve our problem:
 - Learning about the Request-Response Cycle
-- Learning about REST
-  - how does this tie into RR Cycle?
-  - How does CRUD fit into REST?
+  - ...
+- Learning about the HTTP protocol
+  - ...
 - Learning about Rack
+  - what is it?
+  - what is "localhost"
+  - what is a port?
+  - how does this tie into RR Cycle?
+
+## Introducing ... REST:
+- What is it?
+- how does this tie into RR Cycle?
+- How does CRUD fit into REST?
 
 ## Introducing ... Sinatra:
 1. Is a Gem
@@ -28,8 +37,6 @@
   - widespread!
   - separation of concerns for logic of our web application
   - *Interactively get at M / V / C*
-  - Restaurant Metaphor!
-
 
 ## MVC + CRUD + REST
 - MVC apps usually adhere to REST for CRUD functionality
@@ -37,11 +44,11 @@
 
 ## Today's codebase brought to you by ...
 - convention > configuration
+- ERB
 - macros
 - rake tasks
 - routing table
-- (ports ? localhost ?)
-  - block -> "handler for the route"
+- block -> "handler for the route"
 
 ## PSA: regarding the tests in this module's labs
 - tests try to interact with your web application's interface
